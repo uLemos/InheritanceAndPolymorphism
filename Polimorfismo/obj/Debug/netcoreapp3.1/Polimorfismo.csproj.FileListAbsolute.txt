@@ -1,0 +1,14 @@
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache

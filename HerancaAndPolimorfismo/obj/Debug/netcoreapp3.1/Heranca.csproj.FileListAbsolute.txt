@@ -1,0 +1,14 @@
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\fekel\source\repos\HerancaAndPolimorfismo\HerancaAndPolimorfismo\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
